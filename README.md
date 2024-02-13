@@ -1,7 +1,5 @@
 # Pixabay Image Search
 
-Pixabay Image Search is a web application that allows users to search for images on Pixabay, a popular platform for high-quality free stock images. Users can enter search terms, and the application fetches relevant images using the Pixabay API. The results are displayed with basic image information such as likes and views, and users can click on images to view them in full size. The application also features form validation to ensure all required fields are filled, pagination functionality for navigating through multiple pages of search results, and basic styling for a user-friendly interface.
-
 ## Key Features
 
 - **Search:** Search for images using keywords
